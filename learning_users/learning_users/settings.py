@@ -27,7 +27,7 @@ SECRET_KEY = '2#^254pu6s$^+33z05ki6)+6)l*%-wwl#_gm)u+ws8b@ta@wv_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mvmello27.pythonanywhere.com']
 
 
 # Application definition
